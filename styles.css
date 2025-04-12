@@ -358,6 +358,14 @@ body::before {
 .buy-btn:hover {
     background-color: #5254cc;
 }
+.coupon-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
 
 /* Contact Form */
 .contact-form {
